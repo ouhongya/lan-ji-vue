@@ -1,0 +1,38 @@
+
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+::-webkit-scrollbar-track {
+  width: 6px;
+  background-color: #FFFFFF;
+  -webkit-border-radius: 2em;
+  -moz-border-radius: 2em;
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #eaeefb;
+  background-clip: padding-box;
+  min-height: 28px;
+  -webkit-border-radius: 2em;
+  -moz-border-radius: 2em;
+  border-radius: 2em;
+}
+
+
+.el-dialog--center .el-dialog__body {
+  padding: 25px 25px 20px
+}
+
+.app-main[data-v-078753dd] {
+  background: #FFFFFF60;
+}
+
+.form-layout {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  width: 45%;
+}
